@@ -21,4 +21,4 @@ initial insights that informed subsequent data analysis and modeling
 activities  
 • Team leveraged the advanced visualization capabilities of Power BI and 
 Tableau to present critical data insightsin a visually compelling and easily 
-understandable format
+understandable format.
